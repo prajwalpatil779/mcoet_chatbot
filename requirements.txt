@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+chromadb
+google-genai
+langchain-google-genai
+sentence-transformers
+pypdf
+beautifulsoup4
+requests
+pytesseract
+python-docx
+Pillow
